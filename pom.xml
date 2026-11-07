@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>turath-java-trilateral-root-stemmer</artifactId>
+  <version>1.0.0</version>
+  <name>Classical Arabic Khoja/ISRI-Style Trilateral Root Extractor</name>
+</project>
